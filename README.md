@@ -12,7 +12,7 @@ A Mochila de viagem é um projeto de uma lista online personalizável que permit
 
 ## Execução do projeto:
 
-https://robotron2000-black-gamma.vercel.app/
+https://mochila-de-viagem-olive-eight.vercel.app/
 
 ## Feito por:
 
